@@ -1,0 +1,15 @@
+names:
+- buldozerpayloadergrader
+- dump_truck
+- excavator
+- light_vehicle
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: opencast
+  url: https://universe.roboflow.com/opencat/opencast/dataset/8
+  version: 8
+  workspace: opencat
+test: ../test/images
+train: ../train/images
+val: ../valid/images
