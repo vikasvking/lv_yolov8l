@@ -10,6 +10,6 @@ roboflow:
   url: https://universe.roboflow.com/opencat/opencast/dataset/8
   version: 8
   workspace: opencat
-test: ../test/images
-train: ../train/images
-val: ../valid/images
+test: /content/opencast-8/test/images
+train: /content/opencast-8/train/images
+val: /content/opencast-8/valid/images
